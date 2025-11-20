@@ -1,0 +1,31 @@
+POST http://localhost:3000/api/courses/prog HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 4,
+  "title": "Introduction to Programming in javaScript",
+  "level": "Beginner",
+  "views": 200
+}
+
+###
+PUT http://localhost:3000/api/courses/prog/4 HTTP/1.1
+Content-Type: application/json
+
+{
+  "id": 4,
+  "title": "Advanced JavaScript Programming",
+  "level": "Advanced",
+  "views": 300
+}
+
+###
+PATCH http://localhost:3000/api/courses/prog/4 HTTP/1.1
+Content-Type: application/json
+
+{
+  "views": 350
+}
+
+###
+DELETE http://localhost:3000/api/courses/prog/4 HTTP/1.1

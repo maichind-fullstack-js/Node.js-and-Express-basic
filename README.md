@@ -2,9 +2,9 @@
 
 Este repositorio contiene mis prácticas, ejemplos y proyectos realizados durante el curso:
 
-**freeCodeCamp – “Learn Node.js and Express in Spanish – Curso para principiantes”**
+**freeCodeCamp – “Aprende Node.js y Express - Curso desde Cero”**
 
-🔗 Enlace oficial: https://www.youtube.com/watch?v=nqxe03aSA0I
+🔗 Enlace oficial: https://www.youtube.com/watch?v=1hpc70_OoAg&list=PL4ONm-ifcbQJHg52qGN9GbMAhqK-mC2-y&index=3
 
 ---
 
